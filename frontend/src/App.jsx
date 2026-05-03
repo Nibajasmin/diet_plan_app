@@ -36,7 +36,7 @@ function App() {
     { value: 'tamilnadu', label: 'Tamil Nadu', description: 'Tangy, spicy, rice-based', flag: '🍛' },
     { value: 'south_india', label: 'South Indian', description: 'Dosa, Idli, Sambar, Rasam', flag: '🥥' },
     { value: 'north_india', label: 'North Indian', description: 'Butter Chicken, Naan, Dal', flag: '🍞' },
-    { value: 'western', label: 'Western Indian', description: 'Dhokla, Pav Bhaji, Dal Baati', flag: '🥘' },
+    { value: 'western', label: 'Western', description: 'Greek Yogurt, Quinoa, Avocado Toast, Smoothie Bowls', flag: '🥑' }, 
     { value: 'arabian', label: 'Arabian', description: 'Hummus, Shawarma, Kebabs', flag: '🐪' },
     { value: 'european', label: 'European', description: 'Pasta, Pizza, Ratatouille', flag: '🍝' },
     { value: 'turkish', label: 'Turkish', description: 'Kebabs, Baklava, Pide', flag: '🥘' }
